@@ -16,7 +16,7 @@ let path = {
     },
     watch: {
         html: 'src/**/*.html',
-        css: 'src/css/**/*.scss',
+        css: 'src/scss/**/*.scss',
         js: 'src/js/**/*.js',
         img: 'src/img/**/*.{jpg,png,svg,webp,ico}'
     },
